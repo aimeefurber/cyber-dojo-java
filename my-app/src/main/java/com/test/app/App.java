@@ -26,6 +26,6 @@ package com.test.app;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        DiamondMaker.makeDiamond();
     }
 }
